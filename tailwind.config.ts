@@ -61,6 +61,15 @@ export default {
 					'accent-foreground': 'hsl(var(--sidebar-accent-foreground))',
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
+				},
+				// Ремесленные цвета
+				wood: {
+					dark: 'hsl(var(--wood-dark))',
+					medium: 'hsl(var(--wood-medium))',
+					light: 'hsl(var(--wood-light))'
+				},
+				craft: {
+					beige: 'hsl(var(--craft-beige))'
 				}
 			},
 			borderRadius: {
