@@ -62,14 +62,12 @@ export default {
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
 				},
-				// Ремесленные цвета
-				wood: {
-					dark: 'hsl(var(--wood-dark))',
-					medium: 'hsl(var(--wood-medium))',
-					light: 'hsl(var(--wood-light))'
-				},
-				craft: {
-					beige: 'hsl(var(--craft-beige))'
+				// CMYK Colors
+				cmyk: {
+					cyan: '#00AEEF',
+					magenta: '#EC008C',
+					yellow: '#FFF200',
+					key: '#231F20'
 				}
 			},
 			borderRadius: {
