@@ -61,13 +61,6 @@ export default {
 					'accent-foreground': 'hsl(var(--sidebar-accent-foreground))',
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
-				},
-				// CMYK Colors
-				cmyk: {
-					cyan: '#00AEEF',
-					magenta: '#EC008C',
-					yellow: '#FFF200',
-					key: '#231F20'
 				}
 			},
 			borderRadius: {
